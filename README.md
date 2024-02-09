@@ -1,6 +1,6 @@
 # azure-resume
 
-My personal Azure cloud resume based off the [Cloud Resume Challenge](https://cloudresumechallenge.dev).git
+My personal Azure cloud resume based off the [Cloud Resume Challenge](https://cloudresumechallenge.dev)
 
 # First steps
 
